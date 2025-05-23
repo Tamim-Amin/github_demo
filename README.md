@@ -1,3 +1,3 @@
 # github_demo
 How to use github
-Owner:Tamim Amin
+Owner:Tamim Amin Suhag
